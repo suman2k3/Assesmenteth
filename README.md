@@ -6,7 +6,7 @@ The Token contract allows for the creation and management of a simple token. It 
 
 SPDX License Identifier
 solidity
-Copy code
+
 // SPDX-License-Identifier: MIT
 This line specifies that the code is licensed under the MIT License, a permissive free software license. It allows users to reuse the code with minimal restrictions.
 
